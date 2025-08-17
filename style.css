@@ -10,7 +10,7 @@ html,body{
 }
 
 body{
-    background-color: wheat;
+    background-color: black;
 }
 
 .Pokemon {
@@ -73,4 +73,8 @@ img{
     height: 100%;
     width: 100%;
     object-fit: cover;
+}
+ 
+img{
+    border-radius: 10%;
 }
